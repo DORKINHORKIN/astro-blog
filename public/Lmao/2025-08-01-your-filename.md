@@ -1,7 +1,9 @@
 ---
 'title:lmao'
 ---
-
+---
+Here is some data: "lmao"
+---
 
 export const data = lmao;
 
